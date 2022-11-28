@@ -135,19 +135,10 @@ INSERT INTO
     preguntas (pregunta, respuesta_correcta)
 VALUES
     ('En que año estamos?', '2022'),
-    (
-        'De que color era el caballo blanco de Napoleon?',
-        'blanco'
-    ),
+    ('De que color era el caballo blanco de Napoleon?','blanco'),
     ('Que tocaba Lolo?', 'guitarra'),
-    (
-        'donde se esta llevando acabo el mundial?',
-        'Qatar'
-    ),
-    (
-        'cuando se celebran fiestas patrias?',
-        '18 Septiembre'
-    );
+    ('donde se esta llevando acabo el mundial?','Qatar'),
+    ('cuando se celebran fiestas patrias?','18 Septiembre');
 
 ---------------------------------------------------------------------------------------------------------------------
 --- carga respuestas
