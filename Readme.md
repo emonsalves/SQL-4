@@ -1,5 +1,5 @@
 # Prueba Final
-
+ <a href= "https://prnt.sc/EbLv6eW8SVOg" target="_blank" rel="noreferrer"> Modelo <a/>
 ### 1. Crea el modelo (revisa bien cuál es el tipo de relación antes de crearlo), respeta las claves primarias, foráneas y tipos de datos.
 
 ### 2. Inserta 5 películas y 5 tags, la primera película tiene que tener 3 tags asociados, la segunda película debe tener dos tags asociados.
