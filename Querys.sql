@@ -106,10 +106,10 @@ CREATE TABLE usuarios(
 CREATE TABLE respuestas (
     id SERIAL PRIMARY KEY,
     respuesta VARCHAR(255),
-    usuario_id BIGINT,
-    pregunta_id BIGINT,
-    FOREIGN KEy (usuario_id) REFERENCES usuarios (id),
-    FOREIGN KEy (pregunta_id) REFERENCES preguntas (id)
+    usuario_id INTEGER,
+    pregunta_id INTEGER,
+    FOREIGN KEY (usuario_id) REFERENCES usuarios (id),
+    FOREIGN KEY (pregunta_id) REFERENCES preguntas (id)
 );
 
 ---------------------------------------------------------------------------------------------------------------------
