@@ -6,7 +6,7 @@ CREATE DATABASE Emonsalves_prueba_final;
 ---------------------------------------------------------------------------------------------------------------------
 --- 1: Crea el modelo (revisa bien cuál es el tipo de relación antes de crearlo), 
 --- respeta las claves primarias, foráneas y tipos de datos. 
-< a src = "https://prnt.sc/EbLv6eW8SVOg" > Modelo < / a >
+"https://prnt.sc/EbLv6eW8SVOg"
 ---------------------------------------------------------------------------------------------------------------------
 CREATE TABLE peliculas (
     id SERIAL PRIMARY KEY,
@@ -81,7 +81,8 @@ ORDER BY
 ---------------------------------------------------------------------------------------------------------------------
 --- 4: Crea las tablas respetando los nombres, tipos, claves primarias y foráneas y tipos de
 --- datos.
-< a src = "https://prnt.sc/HIgVwLivCNHn" > Modelo < / a > ---------------------------------------------------------------------------------------------------------------------
+"https://prnt.sc/HIgVwLivCNHn"
+---------------------------------------------------------------------------------------------------------------------
 --- preguntas
 ---------------------------------------------------------------------------------------------------------------------
 CREATE TABLE preguntas (
